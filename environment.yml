@@ -1,0 +1,17 @@
+name: miccai-vit
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.8
+  - pip
+  - pip:
+    - numpy
+    - opencv-python
+    - scikit-learn
+    - matplotlib
+    - pyyaml
+    - tqdm

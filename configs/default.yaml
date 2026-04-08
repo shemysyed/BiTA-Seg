@@ -1,0 +1,18 @@
+model:
+  img_size: 256
+  patch_size: 16
+  embed_dim: 256
+  depth: 6
+  num_heads: 8
+
+training:
+  epochs: 100
+  batch_size: 4
+  lr: 1e-4
+  weight_decay: 1e-5
+  save_dir: experiments/checkpoints/
+  log_dir: experiments/logs/
+
+data:
+  root: data/
+  num_workers: 4
