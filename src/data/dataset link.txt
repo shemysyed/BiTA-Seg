@@ -1,1 +1,9 @@
+This is the link to the dataset.
 
+@article{danilov2022chest,
+  title={Chest X-ray dataset for lung segmentation},
+  author={Danilov, Viacheslav and Proutski, A and Kirpich, A and Litmanovich, DE and Gankin, Y},
+  journal={Mendeley Data},
+  volume={10},
+  year={2022}
+}
