@@ -1,4 +1,4 @@
-name: miccai-vit
+name:BiTA-Seg
 channels:
   - pytorch
   - conda-forge
